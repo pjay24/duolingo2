@@ -27,8 +27,8 @@ Built for the SDE Fullstack Assignment. Every feature described in this README i
 
 | | Link |
 |---|---|
-| **GitHub repo** | `<add repo link here>` |
-| **Live deployed app** | `<add deployed link here>` |
+| **GitHub repo** | [pjay24/Duolingo-Web-App-clone-](https://github.com/pjay24/Duolingo-Web-App-clone-) |
+| **Live deployed app** | [duolingo2-ten.vercel.app](https://duolingo2-ten.vercel.app/) |
 | **Video walkthrough** | `<add video link here — 2–3 min covering path → lesson → complete → legendary → dark mode → responsive>` |
 
 ### Screenshots
@@ -314,8 +314,7 @@ The frontend reads that value in `frontend/lib/api.ts`, so once it is set the ap
 
 - Confirm the backend URL responds successfully in a browser.
 - Confirm the frontend loads and can fetch `/api/path`.
-- Replace the placeholder repo/screenshot links at the top of this README.
-- Push the root repository to a public GitHub repo.
+- Add the remaining screenshots and video walkthrough link when available.
 
 ---
 
@@ -374,6 +373,3 @@ A single table covering every requirement in the assignment — core, bonus, and
 
 ---
 
-## Original Work Statement
-
-All code in this repository was written specifically for this assignment, with AI assistance (Claude) used throughout for implementation, debugging, and code review — per the assignment's stated AI usage policy. Every implementation decision documented above (schema design, streak/heart-regen logic, exercise grading rules, unlock ordering) was made deliberately and can be explained and defended in the evaluation interview.
