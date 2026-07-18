@@ -4,7 +4,7 @@ A full-stack Duolingo clone built with Next.js/TypeScript and a FastAPI/SQLite b
 
 | | |
 |---|---|
-| **GitHub repo** | [pjay24/Duolingo-Web-App-clone-](https://github.com/pjay24/Duolingo-Web-App-clone-) |
+| **GitHub repo** | [pjay24/Duolingo2](https://github.com/pjay24/duolingo2) |
 | **Live app** | [duolingo2-ten.vercel.app](https://duolingo2-ten.vercel.app/) |
 | **Video walkthrough** | [`docs/walkthrough.mp4`](./docs/walkthrough.mp4) |
 
