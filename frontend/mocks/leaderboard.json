@@ -1,0 +1,8 @@
+{
+  "current_user_id": 1,
+  "entries": [
+    { "user_id": 2, "name": "Maria", "xp_total": 410, "rank": 1 },
+    { "user_id": 1, "name": "Learner", "xp_total": 255, "rank": 2 },
+    { "user_id": 3, "name": "Sam", "xp_total": 190, "rank": 3 }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "lesson_id": 7,
+  "skill_id": 1,
+  "exercises": [
+    {
+      "id": 101,
+      "type": "multiple_choice",
+      "prompt": "Select the correct translation for 'Hello'",
+      "data": { "options": ["Hola", "Adiós", "Gracias", "Por favor"] }
+    },
+    {
+      "id": 102,
+      "type": "translate_tap",
+      "prompt": "Translate 'Good morning'",
+      "data": { "word_bank": ["Buenos", "días", "noches", "Hola"] }
+    },
+    {
+      "id": 103,
+      "type": "match_pairs",
+      "prompt": "Match the greetings",
+      "data": {
+        "pairs": [
+          { "left": "Hola", "right": "Hello" },
+          { "left": "Adiós", "right": "Goodbye" }
+        ]
+      }
+    },
+    {
+      "id": 104,
+      "type": "fill_blank",
+      "prompt": "Fill in the blank",
+      "data": { "sentence": "Yo ___ una manzana.", "options": ["como", "comes", "comen"] }
+    },
+    {
+      "id": 105,
+      "type": "type_answer",
+      "prompt": "Translate to Spanish",
+      "data": { "prompt_translation_hint": "Type in Spanish: Please" }
+    }
+  ]
+}

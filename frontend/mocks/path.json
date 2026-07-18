@@ -1,0 +1,31 @@
+{
+  "user": {
+    "xp_total": 240,
+    "streak_count": 5,
+    "hearts": 4,
+    "gems": 500,
+    "daily_xp_goal": 20,
+    "xp_today": 10
+  },
+  "units": [
+    {
+      "id": 1,
+      "title": "Unit 1: Basics",
+      "skills": [
+        { "id": 1, "title": "Greetings", "icon": "👋", "order_index": 0, "status": "completed", "crowns_earned": 5, "max_crowns": 5 },
+        { "id": 2, "title": "Food", "icon": "🍎", "order_index": 1, "status": "available", "crowns_earned": 2, "max_crowns": 5 },
+        { "id": 3, "title": "Animals", "icon": "🐶", "order_index": 2, "status": "locked", "crowns_earned": 0, "max_crowns": 5 },
+        { "id": 4, "title": "Plurals", "icon": "🍒", "order_index": 3, "status": "locked", "crowns_earned": 0, "max_crowns": 5 }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Unit 2: Phrases",
+      "skills": [
+        { "id": 5, "title": "Travel", "icon": "✈️", "order_index": 0, "status": "locked", "crowns_earned": 0, "max_crowns": 5 },
+        { "id": 6, "title": "Family", "icon": "👪", "order_index": 1, "status": "locked", "crowns_earned": 0, "max_crowns": 5 },
+        { "id": 7, "title": "Numbers", "icon": "🔢", "order_index": 2, "status": "locked", "crowns_earned": 0, "max_crowns": 5 }
+      ]
+    }
+  ]
+}

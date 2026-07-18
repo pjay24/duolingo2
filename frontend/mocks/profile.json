@@ -1,0 +1,14 @@
+{
+  "name": "Learner",
+  "xp_total": 255,
+  "streak_count": 6,
+  "hearts": 3,
+  "hearts_max": 5,
+  "next_heart_in_seconds": 1800,
+  "achievements": [
+    { "code": "xp_100", "title": "Century Club", "icon": "🏅", "earned_at": "2026-07-17T10:00:00Z" }
+  ],
+  "achievements_locked": [
+    { "code": "streak_30", "title": "Monthly Master", "icon": "🔥" }
+  ]
+}
