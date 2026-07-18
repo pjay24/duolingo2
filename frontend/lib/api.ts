@@ -64,4 +64,5 @@ export const api = {
       correct_count: correctCount,
       total_rounds: totalRounds,
     }),
+  advanceDay: () => post<{ simulated_date: string }>("/api/debug/advance-day", {}),
 };
