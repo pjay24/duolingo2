@@ -20,9 +20,10 @@ A full-stack Duolingo clone built with Next.js/TypeScript and a FastAPI/SQLite b
 |---|---|
 | ![Legendary](./docs/screenshots/04-legendary-play.png) | ![Fill blank](./docs/screenshots/05-fill-blank.png) |
 
-| Settings — Developer/Testing (streak day-logic testable from the UI) |
-|---|
-| ![Settings testing](./docs/screenshots/03-settings-testing.png) |
+| Settings — Developer/Testing (streak day-logic testable from the UI) | Friends (Coming Soon) |
+|---|---|
+| ![Settings testing](./docs/screenshots/03-settings-testing.png) | ![coming_soon](./docs/screenshots/06-coming-soon.png) |
+
 
 ---
 
